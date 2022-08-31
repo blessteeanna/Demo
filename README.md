@@ -1,2 +1,9 @@
 # Demo
-Learning
+
+MySuperduperrepo
+
+Example repo
+
+Learningprocess 
+
+You are amazing
